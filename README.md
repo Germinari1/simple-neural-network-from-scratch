@@ -1,5 +1,5 @@
 # simple deep neural network from scratch
-This project aims to build a deep neural network from scratch, without using high-level frameworks like TensorFlow or PyTorch. It implements the forward and backward propagation algorithms for training a multi-layer neural network.
+This project aims to build a deep neural network from scratch, without using high-level frameworks like TensorFlow or PyTorch. It implements the forward and backward propagation algorithms for training a multi-layer neural network. This project was used for learning purposes (thus the extra explanations in the notebook)
 
 ## Project Overview
 
