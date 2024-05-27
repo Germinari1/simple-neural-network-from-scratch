@@ -17,3 +17,9 @@ The project requires the following Python libraries:
 
 - NumPy
 - Matplotlib
+
+They can be installed by using the following commands:
+```txt
+pip install numpy
+pip install matplotlib
+```
